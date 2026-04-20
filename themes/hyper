@@ -1,0 +1,53 @@
+# Colors
+bold-is-bright = true
+
+background = #000000
+foreground = #ffffff
+
+palette = 0=#000000
+palette = 1=#c51e14
+palette = 2=#1dc121
+palette = 3=#c7c329
+palette = 4=#0066ff
+palette = 5=#c839c5
+palette = 6=#20c5c6
+palette = 7=#c7c7c7
+palette = 8=#686868
+palette = 9=#fd6f6b
+palette = 10=#67f86f
+palette = 11=#fffa72
+palette = 12=#6a76fb
+palette = 13=#fd7cfc
+palette = 14=#68fdfe
+palette = 15=#ffffff
+
+# Cursor
+cursor-color = #f81ce5
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# Selection
+selection-background = #4a0845
+selection-foreground = #ffffff
+
+# Font
+font-family = Menlo
+font-size = 14
+
+# Padding
+window-padding-balance = true
+window-padding-color = background
+window-padding-x = 14
+window-padding-y = 10
+
+# Splits
+split-divider-color = #333333
+unfocused-split-opacity = 1
+
+# Tabs
+window-show-tab-bar = auto
+
+# Window Chrome
+window-theme = dark
+window-decoration = auto
